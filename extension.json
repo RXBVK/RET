@@ -1,0 +1,13 @@
+{
+  "id": "point-placing-editor",
+  "name": "point-placing-editor",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Symbol",
+    "Text",
+    "RichText",
+    "Number",
+    "Object",
+    "Asset"
+  ]
+}
